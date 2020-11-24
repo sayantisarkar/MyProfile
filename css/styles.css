@@ -1,0 +1,42 @@
+body {
+  background-color: #eaf6f6;
+}
+
+h1 {
+  color: #66bfbf;
+  text-shadow: 2px 2px #00ffff;
+}
+
+h3 {
+  color: #008b8b;
+}
+
+hr {
+  border-style: none;
+  border-color: grey;
+  border-width: 5px;
+  border-top-style: dotted;
+  width:5%;
+}
+
+img {
+  border-radius: 100%;
+}
+
+.contact {
+  color:  #ff1493;
+}
+
+#form {
+  background-color: #dcdcdc;
+  color: #800080;
+}
+
+.submit {
+  background-color: #dcdcdc;
+  color: #800080;
+}
+.submit:hover {
+  background-color: #deb887;
+  color: #808080;
+}
